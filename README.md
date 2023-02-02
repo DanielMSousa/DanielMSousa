@@ -2,8 +2,7 @@
 
 - My name is Daniel, nice to meet you!
 - 🎓 I'm an student at Universidade Federal da Paraíba - Centro de informática
-- 📖 I'm learning about artificial intelligence and optimization
-
+- 📖 I'm learning currently learning about artificial inteligence and User experience design.
 
 
 
