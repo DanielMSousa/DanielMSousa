@@ -3,7 +3,7 @@
 - My name is Daniel, nice to meet you!
 - 🎓 I'm a student at Universidade Federal da Paraíba - Centro de informática
 - 📖 I'm learning currently learning artificial inteligence and User experience design.
-- PHP Programmer intern at tksgo
+- PHP Programmer intern at EDXP
 
 
 
