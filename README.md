@@ -4,6 +4,7 @@
 - 🎓 I'm a student at Universidade Federal da Paraíba - Centro de informática
 - 📖 I'm learning currently learning artificial inteligence and User experience design.
 - PHP Programmer intern at EDXP
+- Reinforcement director at TAIL (Technology and artificial intelligence league)
 
 
 
